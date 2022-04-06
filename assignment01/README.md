@@ -17,5 +17,5 @@ I want to create an engaging website where anyone can learn music theory for fre
 ![Teoria Homepage](/assignment01/assets/teoria_home.png "Teoria Homepage")
 ![Teoria Tutorials](/assignment01/assets/teoria_tutorials.png "Teoria Tutorials")
 ![Teoria Exercises](/assignment01/assets/teoria_exercises.png "Teoria Exercises")
+![Teoria Reference](/assignment01/assets/teoria_reference.png "Teoria Reference")
 ![Teoria Articles](/assignment01/assets/teoria_articles.png "Teoria Articles")
-![Teoria References](/assignment01/assets/teoria_reference.png "Teoria References")
