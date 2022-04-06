@@ -10,7 +10,7 @@ I want to create an engaging website where anyone can learn music theory for fre
 
 ## Website Analysis:
 
-**Teoria**<br>
+### Teoria
 
 <https://www.teoria.com/index.php>
 
