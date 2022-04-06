@@ -76,3 +76,60 @@ Teoria has a help section that goes over anything that people might need help wi
 
 ### musictheory.net
 
+![musictheory.net](/assignment01/assets/musictheorynet.png "musictheory.net homepage")
+
+<https://www.musictheory.net/>
+
+Musictheory.net is a website that provides various music theory lessons as well as exercises to hone certain skills. I like musictheory.net just because it has so many different tools and very engaging lessons.
+
+#### Heuristic Evaluation
+
+##### Visibility of System Status
+
+**Severity Rating: 0**<br>
+The website always allows you to see exactly how far you are into a lesson, the feedback on the tools and exercises are great, and there is always a way to get to where you need to be.
+
+##### Match between system and the real world
+
+**Severity Rating: 0**<br>
+The website does a great job of making use of sounds (attaching notes to its respective sound), colors (green equals good and red equals bad), and explaining all of its musical jargon.
+
+##### User control and freedom
+
+**Severity Rating: 0**<br>
+Users can easily undo or redo any part of the lesson and can attempt exercises as many times as they need to.
+
+##### Consistency and standards
+
+**Severity Rating: 0**<br>
+From the use of symbols, sounds, and language, musictheory.net has all the standards down and is extremely consistent throughout the whole site.
+
+##### Error prevention
+
+**Severity Rating: 1**<br>
+It takes a little bit of learning to get used to the different exercises and tools and musictheory.net does not hold the user's hand throughout the process.
+
+##### Recognition rather than recall
+
+**Severity Rating: 1**<br>
+The website does a good job of using sheet music, notes, and symbols to invoke feelings of recognition but I think that there is inherently a feeling of "I have to memorize what this does to use it properly". For example, customizing exercises is not easy in anyway and I think that it requires some learning on the user's end to be able to properly customize an exercise for their needs.
+
+##### Flexibility and efficiency of use
+
+**Severity Rating: 0**<br>
+This website is extremely flexible because users can easily customize and choose exactly what they want to do..
+
+##### Aesthetic and minimalist design
+
+**Severity Rating: 1**<br>
+The design is definitely minimalistic and straight to the point but I think that it is too barebone. It could use some more helpful indicators than it already has and to be a little more visually appealing.
+
+##### Help users recognize, diagnose, and recover from errors
+
+**Severity Rating: 0**<br>
+I haven't experienced any errors with musictheory.net yet so its hard to provide a fair evaluation of this heuristic. However, having gone through some of the exercises, I would say that it definitely lets users know when they make a mistake through the use of red and the sound.
+
+##### Help and documentation
+
+**Severity Rating: 3**<br>
+The website has a distinct lack of help or rather any hand holding at all. Users are expected to figure things out on their own which may be a good thing, it also desperately needs some clarification and tips.
