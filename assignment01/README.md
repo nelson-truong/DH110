@@ -12,3 +12,4 @@ I want to create an engaging website where anyone can learn music theory for fre
 
 <https://www.teoria.com/index.php>
 
+![Teoria Homepage](/assets/teoria_home "Teoria Homepage")
