@@ -10,7 +10,7 @@ https://forms.gle/q5eQumFcYiauyj2b8
 
 ## Pilot UT Video
 
-[![Pilot UT video]({https://i9.ytimg.com/vi/hlY4aX734eA/mq2.jpg?sqp=CJCD3JIG&rs=AOn4CLD0Xs46NhP5rqffhbazGvK89v4Qhg})]({https://youtu.be/hlY4aX734eA} "Pilot UT for musictheory.net")
+https://www.youtube.com/watch?v=hlY4aX734eA&feature=youtu.be
 
 ## Reflections on pilot UT
 
