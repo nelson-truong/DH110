@@ -16,5 +16,18 @@ The plan is to meet virtually over Zoom because of COVID and scheduling. The act
 
 # Script
 
+This was less of a script and more of a general outline. There were things that we wanted to address with the user but it just felt better to go freeform and listen to what the user was telling us. This will be more visible from the transcript and video recording of the contextual inquiry.
+
 https://docs.google.com/document/d/1uhaY-6NUF01Yh3yQ-bJcyujxz59F0yqFrhmZFVsWZYI/edit?usp=sharing
 
+# Recording
+
+https://drive.google.com/file/d/1fmfNNad10zFPR0qBs_VQ6aShi7eb55NS/view?usp=sharing
+
+# Transcript
+
+https://otter.ai/u/fWOEwDNtr8GotOUQr_81KjWXiIY
+
+# Reflection
+
+This was so much more insightful and hands on than both the heuristic evaluation and usability test. Being able to pick someone's brain about how they learn music was so interesting. A lot of the user talked about was able to confirm previous suspicions and highlight new issues. Learning music requires dedication and interest because it is very difficult. However, this user also seems to learn music because of the songs that they like to listen to so it becomes easier to continue that grind. The way that the user went about learning music was also very fluid with no structure at all. They would listen to a song a lot of times and then they would start to learn by playing. The whole process is organic, there are no lesson plan or agenda that they adhere to. Overall, this was an amazing contextual inquiry.
