@@ -47,4 +47,4 @@ Ben drives home after work and remembers that his wife is picking up the kids to
 
 #### Journey map
 
-![Maria Journey](/assignment04/assets/maria_journey.png)
+![Ben Journey](/assignment04/assets/ben_journey.png)
