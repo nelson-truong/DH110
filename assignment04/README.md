@@ -8,6 +8,15 @@ In the process of designing anything, we have to ask who we are designing it for
 
 ![Maria Gonzalez](/assignment04/assets/maria_gonzalez.png)
 
+### Empathy Map
+
+![Maria Empathy](/assignment04/assets/maria_empathy.png)
+
 ## Persona: Ben Wayne
 
 ![Ben Wayne](/assignment04/assets/ben_wayne.png)
+
+
+### Empathy Map
+
+![Ben Empathy](/assignment04/assets/ben_empathy.png)
