@@ -6,8 +6,8 @@ In the process of designing anything, we have to ask who we are designing it for
 
 ## Persona: Maria Gonzalez
 
-![Maria Gonzalez](/assignment04/assets/Maria Gonzalez.png)
+![Maria Gonzalez](/assignment04/assets/maria_gonzalez.png)
 
 ## Persona: Ben Wayne
 
-![Ben Wayne](/assignment04/assets/Ben Wayne.png)
+![Ben Wayne](/assignment04/assets/ben_wayne.png)
