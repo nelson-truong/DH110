@@ -34,3 +34,17 @@ After classes are over, Maria goes home and wants to continue learning music the
 ### Empathy Map
 
 ![Ben Empathy](/assignment04/assets/ben_empathy.png)
+
+### Ben's Scenario
+
+#### Context
+
+Ben has been a woodworker his whole life and has focused on his craft for decades. Recently, he feels like he has been lacking inspiration and wants to pick up the piano as a hobby. He hopes that learning the piano can help take his mind off of work and maybe help him spend more time with his family. Ben feels more comfortable understanding things from the ground up and taking a more exploratory approach. It bothers him when he doesn't understand something and it will nag him at the back of his mind. Since he has to work his job and take care of his kids, he likes to feel like he doesn't have to make a strong time commitment. Despite that, he wants to be able to sit down and spend hours with the piano and improving his skills.
+
+#### Use case
+
+Ben drives home after work and remembers that his wife is picking up the kids today. He takes out his piano and opens up the website at the same time. He clicks the "reference song" button and chooses the song he has been learning. He clicks the small microphone icon, and starts recording what he has learned so far. He clicks the "comparison button" and compares his recording with what the official track sounds like. He notices that there are some discrepancies with his recording. He clicks the little notes to remember what they are, some rests on the sheet music to figure out how long he was supposed to, the time signature to understand the tempo, and the chords that he is supposed to be playing. His kids are back and he has to make dinner for them so he closes the website. Once he is done cooking and eating, he opens the website again and starts off exactly where he left it.
+
+#### Journey map
+
+![Maria Journey](/assignment04/assets/maria_journey.png)
