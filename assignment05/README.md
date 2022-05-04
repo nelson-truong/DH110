@@ -16,4 +16,6 @@ The goal behind this project is to design an application or website that makes l
 
 https://www.figma.com/proto/h8tjU1MmfrRKlEzYNfRgiz/Wireframes?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 
+### Tasks
 
+#### Task 1: 
