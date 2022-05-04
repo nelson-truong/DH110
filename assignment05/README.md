@@ -18,4 +18,12 @@ https://www.figma.com/proto/h8tjU1MmfrRKlEzYNfRgiz/Wireframes?node-id=2%3A2&scal
 
 ### Tasks
 
-#### Task 1: 
+#### Task 1: Checking learning progress
+
+#### Task 2: Learning about a musical concept
+
+#### Task 3: Picking a reference song
+
+### Reflection
+
+Creating a low fidelity prototype was interesting but frustrating at the same time. I felt this need to make it better and more refined but because it was supposed to be low fidelity, I had to keep those urges contained. Instead, it made me think about what I wanted a user to see in its rawest form. I couldn't make it fancy or extravagant, so the information or features that I wanted to show had to be enough on their own. I think that a low fidelity prototype that is good says a lot about where your project is headed but at the same time, even if its bad, you won't feel as hurt because it was low fidelity. You can just quickly revise it and ensure that your project is headed in the proper direction. 
