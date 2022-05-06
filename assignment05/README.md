@@ -33,9 +33,9 @@ The user thought this was simple and not hard to do at all.
 
 ### User Demo
 
-![image1](/assignment05/assets/image_1.png)
-![image2](/assignment05/assets/image_2.png)
-![image3](/assignment05/assets/image_3.png)
+![image1](/assignment05/assets/image_1.jpg)
+![image2](/assignment05/assets/image_2.jpg)
+![image3](/assignment05/assets/image_3.jpg)
 
 
 ### Reflection
