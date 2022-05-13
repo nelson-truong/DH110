@@ -8,6 +8,8 @@ The idea behind this project is to create an application that teaches music theo
 
 The purpose of this interface design is to digitize the previous low fidelity prototype. The process of creating this interface design involved Figma and their plugins such as Icons8 (icons) and Stark (color contrast checker).
 
+Full design tests: https://www.figma.com/file/4ryfAi49qkRnJSfu5zyzJx/Interface-Design?node-id=0%3A1
+
 ### Layout Test
 
 ![layout](/assignment06/assets/layout.png)
