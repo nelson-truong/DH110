@@ -2,7 +2,16 @@
 
 ## High Fidelity Prototype
 
-This prototype consists of three major tasks. The tasks are as follows: learn about what a chord is, understand how much progress you have made, and try to search a different reference song. The tasks are meant to capture the main tasks that a user already part of the system (done with account setup and having tried a bit of the application) would do. These tasks would hopefully show what separates this application from the music theory learning websites already out there and how it would improve upon them. This prototype went through changes after performing a cognitive walkthrough.
+This high fidelity prototype is meant to take what was learned from the low fidelity prototype, refine it, and test those insights in a cognitive walkthrough. Through that cognitive walkthrough, we hope to either validate what we learned or figure out what is wrong with the prototype and further improve upon it. This particular prototype was done through Figma using plugins such as Icons8 and Unsplash for icons and images. 
+
+This prototype consists of three major tasks. 
+
+- The tasks are as follows: 
+  - learn about what a chord is
+  - understand how much progress you have made
+  - try to search a different reference song. 
+
+The tasks are meant to capture the main tasks that a user already part of the system (done with account setup and having tried a bit of the application) would do. These tasks would hopefully show what separates this application from the music theory learning websites already out there and how it would improve upon them. This prototype went through changes after performing a cognitive walkthrough. 
 
 ### Initial Prototype
 
@@ -21,6 +30,8 @@ Full Figma design file: https://www.figma.com/file/L80jxeUuJvS3HjZ8r09aV8/Second
 Link to the prototype itself: https://www.figma.com/proto/L80jxeUuJvS3HjZ8r09aV8/Second-Interactive-Prototype?node-id=2%3A48&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A48
 
 Full wireflow: https://www.figma.com/file/maDrFkXMDDcK9cZP9fLQqa/Wireflow?node-id=0%3A1
+
+![wireflow](/assignment07/assets/wireflow.png)
 
 ### Conclusion
 
