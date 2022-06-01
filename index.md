@@ -48,7 +48,7 @@ Through UX storytelling we can answer the question of who we are designing for. 
 
 Link to full low fidelity prototype: [here](/assignment05/README.md)
 
-![wireframes](/assignment05/assets/wireframes.png)
+![wireflow](/assignment05/assets/wireflow.png)
 
 The creation of the low fidelity prototype came in stages. First, I started with the wireframes. To create these wireframes, I opted for the use of Figma and I tried to hone in on the idea of **information**. What information did I want the user to see and use on each frame? I tried to not care about the graphical elements such as the font size, font type, or button shapes. I wanted to leave those elements for after I had feedback on the wireframes so that I could improve on the prototype again before I spent time on the actual interface design. I presented the low fidelity prototype to a user and had them perform three different tasks. From these tasks, I was able to understand what information I should tweak or where I needed to provide more information so that the user could understand what they needed to do. 
 
@@ -56,10 +56,29 @@ The creation of the low fidelity prototype came in stages. First, I started with
 
 ## Interface Design
 
-After the low fidelity prototyping, I spent time on interface design. This process involved the 
+Link to full low fidelity prototype: [here](/assignment06/README.md)
 
 ![color](/assignment06/assets/color.png)
 
+After the low fidelity prototyping, I spent time on interface design. This process involved deciding on the layout of the frame, the type of font and the size in different circumstances, the shape of each element on the wireframe, and the color of each element as well. Whilst deciding these things, I also kept in mind accessibility in terms of the size of the font, the shapes of the icons, and contrast in color. Although I did not do an impression test for this at the time, I did end up doing one in the early stages of my high fidelity prototype. Overall, people enjoyed the color scheme that I had chosen and the graphical elements, but they still struggled to understand what certain parts were supposed to mean or do. I tackled this idea later on in my high fidelity prototype.
+
+## High Fidelity Prototype
+
+Link to full high fidelity prototype: [here](/assignment07/README.md)
+
+<p align="center">
+<iframe src="https://drive.google.com/file/d/1uR77Zlx1_81B7Tq1a_q8KRPD9STnMiwq/preview" width="640" height="480" allow="autoplay"></iframe>
+</p>
+  
+The high fidelity prototype was a culmination of everything that I had been working on throughout the project. By creating a working prototype on Figma, I was able to conduct a cognitive walkthrough with a select user. I provided them three different tasks and collected feedback as they attempted each one. From that feedback, I was able to further improve on my prototype and finalize it into the following prototype and digitized wireflow.
+
+![wireflow](/assignment07/assets/wireflow.png)
+
+<p align="center">
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FL80jxeUuJvS3HjZ8r09aV8%2FSecond-Interactive-Prototype%3Fnode-id%3D2%253A48%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A48" allowfullscreen></iframe>
+</p>
+
+Through the creation of this prototype, I learned what it meant to make something **interactable** and more importantly, to convey that interaction to the user. It was not easy designing interactive buttons or creating an interactive process, but the cognitive walkthrough helped immensely in identifying the weakpoints of my previous prototype.
 
 ## Welcome to GitHub Pages
 
