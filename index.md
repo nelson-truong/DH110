@@ -80,40 +80,10 @@ The high fidelity prototype was a culmination of everything that I had been work
 
 Through the creation of this prototype, I learned what it meant to make something **interactable** and more importantly, to convey that interaction to the user. It was not easy designing interactive buttons or creating an interactive process, but the cognitive walkthrough helped immensely in identifying the weakpoints of my previous prototype.
 
-## Welcome to GitHub Pages
+## Evaluation and Revisions
 
-You can use the [editor on GitHub](https://github.com/nelson-truong/DH110/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Overall, I was happy with how the final prototype turned out. The design process of creating buttons, scrollable elements, and an interactive music sheet made the whole process extremely fun. However, there are still some parts to it that need further refinement. I think the progress bar could use a lot of work because it is not quite clear what seventy percent or fifty percent is, both in terms of graphics and significance. Users do not have an indication of how progress is made (is it through achievements or some other way) and the use of a linear gradient makes it so that the actual percentage is not exactly properly indicated on the progress bar itself. I think that the icons such as the recording icon could use a label so that people understand what it is for and that the music sheet could use much more work. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Conclusion
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nelson-truong/DH110/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The design process of this project was a journey and throughout, I learned so many different things about what it means to design for the user experience. I think one important lesson that spoke with me was the **narrowing down of ideas**. In the beginning, I started with a broad concept but overtime, I managed to narrow down that broad concept into something more palatable that I could use as the basis for my design. For example, all I knew in the beginning was that I wanted to create an application for music learning. Then, I started to think more about the websites that I had seen, the users that I wanted to design for, and I narrowed that down to the concept of an application for learning music theory that was engaging and rewarding. Then I went from a mainstream user to an actual persona. I thought about a day in the week and how that particular persona would use my application and it allowed me to single out features that I wanted to prototype out and show. By continuing to hone in on what was important in the design process, I was able to make faster evaluations and changes to improve on my design. I wish I had more time to learn different protoyping techniques to create an even more complete prototype.
