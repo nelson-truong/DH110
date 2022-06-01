@@ -22,7 +22,7 @@ I performed this heuristic evaluation on both websites by looking at the ten usa
 
 Link to full usability testing: [here](/assignment02/README.md)
 
-This usability test was done on musictheory.net and the user was prompted to go through a lesson, an exercise, and to use a tool on the website. I was hoping this usability test would identify some problems that I had not noticed before. Through this usability test, I realized that the website was only minimalistic and efficient for an **experienced user**. The user struggled to gain an understanding of the different parts of the website because of the ambiguity in the icons and what they represented from page to page. There was a heavy reliance on **recognition** rather than recall.
+This usability test was done on musictheory.net and the user was prompted to go through a lesson, an exercise, and to use a tool on the website. I was hoping this usability test would identify some problems that I had not noticed before. Through this usability test, I realized that the website was only minimalistic and efficient for an **experienced user**. The user struggled to gain an understanding of the different parts of the website because of the ambiguity in the icons and what they represented from page to page. There was a heavy reliance on **recall** instead of recognition.
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlY4aX734eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
