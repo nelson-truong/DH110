@@ -14,16 +14,19 @@ The design process started off with competitor analysis through heuristic evalua
 
 ### Heuristic Evaluation
 
-Link to full heuristic evaluation [here](https://github.com/nelson-truong/DH110/tree/main/assignment01)
+Link to full heuristic evaluation [here](assignment01/README.md)
 
 I performed this heuristic evaluation on both websites by looking at the ten usability heuristics by Jakob Nielsen. By rating each usability heuristic from 0 to 3 (0 being perfect and 3 being a severe issue), I was able to understand the strengths and weaknesses of each website as well as their commonalities and differences. I noticed that both websites were very minimalistic and both had a very low severity rating on the usability heuristic of aesthetic and minimalistic design. However, both websites also required users to memorize and process lots of information causing them to score worse on the heuristic of recognition rather than recall. I think that, often times, there is a tradeoff that websites are doing when looking at their designs. Instead of opting for a holistic approach of doing well on all heuristics, these websites are choosing to lean towards one direction and forgoing another. 
 
 ### Usability Testing
 
-Link to full usability testing [here](https://github.com/nelson-truong/DH110/tree/main/assignment02)
+Link to full usability testing [here](assignment02/README.md)
 
 This usability test was done on musictheory.net and the user was prompted to go through a lesson, an exercise, and to use a tool on the website. I was hoping this usability test would identify some problems that I had not noticed before. Through this usability test, I realized that the website was only minimalistic and efficient for an **experienced user**. The user struggled to gain an understanding of the different parts of the website because of the ambiguity in the icons and what they represented from page to page. There was a heavy reliance on **recognition** rather than recall.
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=hlY4aX734eA" width="560" height="420"></iframe>
+</figure>
 
 ## Welcome to GitHub Pages
 
