@@ -1,4 +1,4 @@
-# MusicXP - Engaging and Rewarding
+# MusicXP - Music Theory That is Engaging and Rewarding
 
 _Nelson Truong_
 
