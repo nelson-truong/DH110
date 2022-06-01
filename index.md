@@ -1,4 +1,12 @@
-# MusicXP
+# MusicXP - The experience you need to play the music you want
+
+_Nelson Truong_
+
+This project was all about creating an application with the user experience in mind and letting that guide the design process. By creating a meaningful and relevant user experience, I was hoping to grow as a designer but also learn important skills for the design or creation of any product. This particular project happens to be focused on the concept of music learning and I wanted this proposed application to allow folks to gain a foundation of music theory so that they can start learning how to play musical instruments. The goal was to make this application engaging and rewarding because many of the websites that are out there do not have that level of incentive or user engagement. 
+
+## Design Statement
+
+How do we teach music theory to anybody and everybody in a way that is engaging and familiar to them? The issue is that people that do not know any music theory are not used to thinking about music through a theoretical lens. The importance lies in teaching music theory through what people already know, the songs that they listen to all the time, and using audio or visual cues to help facilitate that. By creating that engaging experience, we can supplement that with incentives and inform users on their progress so that they feel a sense of accomplishment on their musical journey.
 
 ## Welcome to GitHub Pages
 
