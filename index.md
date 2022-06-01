@@ -14,13 +14,13 @@ The design process started off with competitor analysis through heuristic evalua
 
 ### Heuristic Evaluation
 
-Link to full heuristic evaluation: [here](/assignment01/README.md)
+Link to full heuristic evaluation: [here](https://github.com/nelson-truong/DH110/blob/main/assignment01/README.md)
 
 I performed this heuristic evaluation on both websites by looking at the ten usability heuristics by Jakob Nielsen. By rating each usability heuristic from 0 to 3 (0 being perfect and 3 being a severe issue), I was able to understand the strengths and weaknesses of each website as well as their commonalities and differences. I noticed that both websites were very minimalistic and both had a very low severity rating on the usability heuristic of aesthetic and minimalistic design. However, both websites also required users to memorize and process lots of information causing them to score worse on the heuristic of recognition rather than recall. I think that, often times, there is a tradeoff that websites are doing when looking at their designs. Instead of opting for a holistic approach of doing well on all heuristics, these websites are choosing to lean towards one direction and forgoing another. 
 
 ### Usability Testing
 
-Link to full usability testing: [here](/assignment02/README.md)
+Link to full usability testing: [here](https://github.com/nelson-truong/DH110/blob/main/assignment02/README.md)
 
 This usability test was done on musictheory.net and the user was prompted to go through a lesson, an exercise, and to use a tool on the website. I was hoping this usability test would identify some problems that I had not noticed before. Through this usability test, I realized that the website was only minimalistic and efficient for an **experienced user**. The user struggled to gain an understanding of the different parts of the website because of the ambiguity in the icons and what they represented from page to page. There was a heavy reliance on **recall** instead of recognition.
 
@@ -30,13 +30,13 @@ This usability test was done on musictheory.net and the user was prompted to go 
   
 ## User Research
 
-Link to full user research: [here](/assignment03/README.md)
+Link to full user research: [here](https://github.com/nelson-truong/DH110/blob/main/assignment03/README.md)
 
 This part of the design process focused on the formation of the research goal and target users. The user research was based upon the idea that users need **confidence** and **determination** if they want to learn music theory. The design challenge followed from that with the question: How do we teach music theory to anybody in a way that is engaging to them? By keeping the learning process engaging, we want to build confidence and keep users eager to learn more. Then I started to narrow down on the mainstream user, someone who might not be spending all their time on learning music theory. A person that is not fully focused on learning and needs the flexibility to dip in and out of the learning process. Then, I used contextual inquiry to pick at the brain of someone who also plays and learns music as a hobby. Through this, I learned that for this person, learning music was a very **fluid and organic process**. While they were trying to play the music, they were also learning the chords at the same time. I learned that combining the feeling of playing and listening to music, which is what people learn music theory to do, was key to creating an engaging experience for the user.
 
 ## UX Storytelling
 
-Link to full UX storytelling: [here](/assignment04/README.md)
+Link to full UX storytelling: [here](https://github.com/nelson-truong/DH110/blob/main/assignment04/README.md)
 
 Through UX storytelling we can answer the question of who we are designing for. In this part of the design process, I created two personas that I wanted to design for, Maria Gonzalez and Ben Wayne. With each persona, I created a scenario in which they were using the application. By giving context to the scenario and fleshing out the background for each persona, I was able to better understand what features I wanted to implement so that I could design for the needs of each persona.
 
@@ -46,7 +46,7 @@ Through UX storytelling we can answer the question of who we are designing for. 
 
 ## Low Fidelity Prototype
 
-Link to full low fidelity prototype: [here](/assignment05/README.md)
+Link to full low fidelity prototype: [here](https://github.com/nelson-truong/DH110/blob/main/assignment05/README.md)
 
 ![wireflow](/assignment05/assets/wireflow.png)
 
@@ -56,7 +56,7 @@ The creation of the low fidelity prototype came in stages. First, I started with
 
 ## Interface Design
 
-Link to full low fidelity prototype: [here](/assignment06/README.md)
+Link to full low fidelity prototype: [here](https://github.com/nelson-truong/DH110/blob/main/assignment06/README.md)
 
 ![color](/assignment06/assets/color.png)
 
@@ -64,7 +64,7 @@ After the low fidelity prototyping, I spent time on interface design. This proce
 
 ## High Fidelity Prototype
 
-Link to full high fidelity prototype: [here](/assignment07/README.md)
+Link to full high fidelity prototype: [here](https://github.com/nelson-truong/DH110/blob/main/assignment07/README.md)
 
 <p align="center">
 <iframe src="https://drive.google.com/file/d/1uR77Zlx1_81B7Tq1a_q8KRPD9STnMiwq/preview" width="640" height="480" allow="autoplay"></iframe>
