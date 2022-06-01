@@ -24,10 +24,10 @@ Link to full usability testing: [here](/assignment02/README.md)
 
 This usability test was done on musictheory.net and the user was prompted to go through a lesson, an exercise, and to use a tool on the website. I was hoping this usability test would identify some problems that I had not noticed before. Through this usability test, I realized that the website was only minimalistic and efficient for an **experienced user**. The user struggled to gain an understanding of the different parts of the website because of the ambiguity in the icons and what they represented from page to page. There was a heavy reliance on **recognition** rather than recall.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=hlY4aX734eA" width="560" height="420"></iframe>
-</figure>
-
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlY4aX734eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+  
 ## User Research
 
 Link to full user research: [here](/assignment03/README.md)
@@ -44,7 +44,22 @@ Through UX storytelling we can answer the question of who we are designing for. 
 
 ![Maria Gonzalez](/assignment04/assets/maria_gonzalez.png)
 
-###
+## Low Fidelity Prototype
+
+Link to full low fidelity prototype: [here](/assignment05/README.md)
+
+![wireframes](/assignment05/assets/wireframes.png)
+
+The creation of the low fidelity prototype came in stages. First, I started with the wireframes. To create these wireframes, I opted for the use of Figma and I tried to hone in on the idea of **information**. What information did I want the user to see and use on each frame? I tried to not care about the graphical elements such as the font size, font type, or button shapes. I wanted to leave those elements for after I had feedback on the wireframes so that I could improve on the prototype again before I spent time on the actual interface design. I presented the low fidelity prototype to a user and had them perform three different tasks. From these tasks, I was able to understand what information I should tweak or where I needed to provide more information so that the user could understand what they needed to do. 
+
+![image1](/assignment05/assets/image_1.jpg)
+
+## Interface Design
+
+After the low fidelity prototyping, I spent time on interface design. This process involved the 
+
+![color](/assignment06/assets/color.png)
+
 
 ## Welcome to GitHub Pages
 
