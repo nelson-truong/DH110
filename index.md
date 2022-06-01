@@ -6,7 +6,19 @@ This project was all about creating an application with the user experience in m
 
 ## Design Statement
 
-How do we teach music theory to anybody and everybody in a way that is engaging and familiar to them? The issue is that people that do not know any music theory are not used to thinking about music through a theoretical lens. The importance lies in teaching music theory through what people already know, the songs that they listen to all the time, and using audio or visual cues to help facilitate that. By creating that engaging experience, we can supplement that with incentives and inform users on their progress so that they feel a sense of accomplishment on their musical journey.
+How do we teach music theory to anybody and everybody in a way that is engaging and familiar to them? The issue is that people, who do not know any music theory, are not used to thinking about music through a theoretical lens. The importance lies in teaching music theory through what people already know, the songs that they listen to all the time, and using audio or visual cues to help facilitate that. By creating that engaging experience, we can supplement that with incentives and inform users on their progress so that they feel a sense of accomplishment on their musical journey.
+
+## Competitor Analysis
+
+The design process started off with competitor analysis through heuristic evaluation and usability testing. By examining websites such as [musictheory.net](https://www.musictheory.net/) and [teoria.com](https://www.teoria.com/), I was able to glean insights on how to improve upon these websites and the direction that I wanted to take the project.
+
+### Heuristic Evaluation
+
+Link to full heuristic evaluation [here](https://github.com/nelson-truong/DH110/tree/main/assignment01)
+
+I performed this heuristic evaluation on both websites by looking at the ten usability heuristics by Jakob Nielsen. By rating each usability heuristic from 0 to 3 (0 being perfect and 3 being a severe issue), I was able to understand the strengths and weaknesses of each website as well as their commonalities and differences. I noticed that both websites were very minimalistic and both had a very low severity rating on the usability heuristic of aesthetic and minimalistic design. However, both websites also required users to memorize and process lots of information causing them to score worse on the heuristic of recognition rather than recall. I think that, often times, there is a tradeoff that websites are doing when looking at their designs. Instead of opting for a holistic approach of doing well on all heuristics, these websites are choosing to lean towards one direction and forgoing another. 
+
+###
 
 ## Welcome to GitHub Pages
 
