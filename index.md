@@ -1,4 +1,4 @@
-# MusicXP - The experience you need to play the music you want
+# MusicXP - Engaging and Rewarding
 
 _Nelson Truong_
 
@@ -18,7 +18,12 @@ Link to full heuristic evaluation [here](https://github.com/nelson-truong/DH110/
 
 I performed this heuristic evaluation on both websites by looking at the ten usability heuristics by Jakob Nielsen. By rating each usability heuristic from 0 to 3 (0 being perfect and 3 being a severe issue), I was able to understand the strengths and weaknesses of each website as well as their commonalities and differences. I noticed that both websites were very minimalistic and both had a very low severity rating on the usability heuristic of aesthetic and minimalistic design. However, both websites also required users to memorize and process lots of information causing them to score worse on the heuristic of recognition rather than recall. I think that, often times, there is a tradeoff that websites are doing when looking at their designs. Instead of opting for a holistic approach of doing well on all heuristics, these websites are choosing to lean towards one direction and forgoing another. 
 
-###
+### Usability Testing
+
+Link to full usability testing [here](https://github.com/nelson-truong/DH110/tree/main/assignment02)
+
+This usability test was done on musictheory.net and 
+
 
 ## Welcome to GitHub Pages
 
