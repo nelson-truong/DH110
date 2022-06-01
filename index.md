@@ -34,6 +34,18 @@ Link to full user research: [here](/assignment03/README.md)
 
 This part of the design process focused on the formation of the research goal and target users. The user research was based upon the idea that users need **confidence** and **determination** if they want to learn music theory. The design challenge followed from that with the question: How do we teach music theory to anybody in a way that is engaging to them? By keeping the learning process engaging, we want to build confidence and keep users eager to learn more. Then I started to narrow down on the mainstream user, someone who might not be spending all their time on learning music theory. A person that is not fully focused on learning and needs the flexibility to dip in and out of the learning process. Then, I used contextual inquiry to pick at the brain of someone who also plays and learns music as a hobby. Through this, I learned that for this person, learning music was a very **fluid and organic process**. While they were trying to play the music, they were also learning the chords at the same time. I learned that combining the feeling of playing and listening to music, which is what people learn music theory to do, was key to creating an engaging experience for the user.
 
+## UX Storytelling
+
+Link to full UX storytelling: [here](/assignment04/README.md)
+
+Through UX storytelling we can answer the question of who we are designing for. In this part of the design process, I created two personas that I wanted to design for, Maria Gonzalez and Ben Wayne. With each persona, I created a scenario in which they were using the application. By giving context to the scenario and fleshing out the background for each persona, I was able to better understand what features I wanted to implement so that I could design for the needs of each persona.
+
+### Maria Gonzalez 
+
+![Maria Gonzalez](/assignment04/assets/maria_gonzalez.png)
+
+###
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nelson-truong/DH110/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
