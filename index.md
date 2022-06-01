@@ -22,7 +22,7 @@ I performed this heuristic evaluation on both websites by looking at the ten usa
 
 Link to full usability testing [here](https://github.com/nelson-truong/DH110/tree/main/assignment02)
 
-This usability test was done on musictheory.net and 
+This usability test was done on musictheory.net and the user was prompted to go through a lesson, an exercise, and to use a tool on the website. I was hoping this usability test would identify some problems that I had not noticed before. Through this usability test, I realized that the website was only minimalistic and efficient for an **experienced user**. The user struggled to gain an understanding of the different parts of the website because of the ambiguity in the icons and what they represented from page to page. There was a heavy reliance on **recognition** rather than recall.
 
 
 ## Welcome to GitHub Pages
